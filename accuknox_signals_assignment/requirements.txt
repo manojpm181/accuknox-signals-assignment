@@ -1,0 +1,15 @@
+#########################################
+# AccuKnox Signals Assignment - Requirements
+# Author: Manoj P M
+# Description:
+# These are the required Python packages to run the Django Signals
+# Assignment project. Install them using:
+
+   pip install -r requirements.txt
+#########################################
+
+Django==4.2.7
+asgiref==3.7.2
+sqlparse==0.4.4
+tzdata==2023.3
+
