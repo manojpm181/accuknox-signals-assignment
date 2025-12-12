@@ -49,31 +49,33 @@ Located in: demoapp/rectangle.py
 <img width="262" height="819" alt="image" src="https://github.com/user-attachments/assets/c52d8ace-abaf-4fd6-9358-16037ed6ac6a" />
 
 ▶️ How to Run This Project
-
 Follow the steps below to set up and run the Django project:
 
 1️⃣ Create Virtual Environment
-python -m venv venv
+
+    python -m venv venv
 
 2️⃣ Activate Virtual Environment
+  Windows:
+    
+    venv\Scripts\activate
+    
+  Mac/Linux:
 
-Windows:
-
-venv\Scripts\activate
-
-
-Mac/Linux:
-
-source venv/bin/activate
+    source venv/bin/activate
 
 3️⃣ Install Dependencies
-pip install -r requirements.txt
+
+    pip install -r requirements.txt
 
 4️⃣ Apply Migrations
-python manage.py migrate
+      
+    python manage.py migrate
 
 5️⃣ Run Development Server
-python manage.py runserver
+    
+    python manage.py runserver
+
 
     
 
