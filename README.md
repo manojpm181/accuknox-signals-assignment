@@ -50,18 +50,30 @@ Located in: demoapp/rectangle.py
 
 ▶️ How to Run This Project
 
-1️⃣ Create Virtual Environment
-    python -m venv venv
-2️⃣ Activate Virtual Environment
-    Windows: venv\Scripts\activate
-    Mac/Linux: source venv/bin/activate
-3️⃣ Install Dependencies
-    pip install -r requirements.txt
-4️⃣ Apply Migrations
-    python manage.py migrate
-5️⃣ Run Development Server
-    python manage.py runserver
+Follow the steps below to set up and run the Django project:
 
+1️⃣ Create Virtual Environment
+python -m venv venv
+
+2️⃣ Activate Virtual Environment
+
+Windows:
+
+venv\Scripts\activate
+
+
+Mac/Linux:
+
+source venv/bin/activate
+
+3️⃣ Install Dependencies
+pip install -r requirements.txt
+
+4️⃣ Apply Migrations
+python manage.py migrate
+
+5️⃣ Run Development Server
+python manage.py runserver
 
     
 
