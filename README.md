@@ -47,7 +47,6 @@ python
 Located in: demoapp/rectangle.py
 
 <img width="262" height="819" alt="image" src="https://github.com/user-attachments/assets/c52d8ace-abaf-4fd6-9358-16037ed6ac6a" />
----
 
 ▶️ How to Run This Project
 
